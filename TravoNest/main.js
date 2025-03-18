@@ -35,3 +35,8 @@ ScrollReveal().reveal(".about__image img", {
   ...scrollRevealOption,
   origin: "left",
 });
+
+ScrollReveal().reveal(".about__content .section__subheader", {
+  ...scrollRevealOption,
+  delay: 500,
+});
