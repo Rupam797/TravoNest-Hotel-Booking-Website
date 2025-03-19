@@ -40,3 +40,8 @@ ScrollReveal().reveal(".about__content .section__subheader", {
   ...scrollRevealOption,
   delay: 500,
 });
+
+ScrollReveal().reveal(".about__content .section__header", {
+  ...scrollRevealOption,
+  delay: 1000,
+});
