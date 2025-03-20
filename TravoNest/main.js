@@ -45,3 +45,8 @@ ScrollReveal().reveal(".about__content .section__header", {
   ...scrollRevealOption,
   delay: 1000,
 });
+
+ScrollReveal().reveal(".about__content .section__description", {
+  ...scrollRevealOption,
+  delay: 1500,
+});
