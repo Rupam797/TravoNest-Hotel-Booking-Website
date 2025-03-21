@@ -50,3 +50,8 @@ ScrollReveal().reveal(".about__content .section__description", {
   ...scrollRevealOption,
   delay: 1500,
 });
+
+ScrollReveal().reveal(".about__btn", {
+  ...scrollRevealOption,
+  delay: 2000,
+});
