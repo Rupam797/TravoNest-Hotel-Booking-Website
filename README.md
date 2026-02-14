@@ -158,16 +158,6 @@ The website is optimized for:
 
 ---
 
-## 📞 Contact Information
-
-- **Email:** rayalpark@info.com
-- **Social Media:**
-  - Facebook
-  - Instagram
-  - YouTube
-  - Twitter
-
----
 
 ## 📝 License
 
@@ -187,7 +177,7 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Support
 
-For any questions or issues, please reach out to us at **rayalpark@info.com**
+For any questions or issues, please reach out to us at **work.rupam.giri@gmail.com**
 
 ---
 
